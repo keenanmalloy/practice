@@ -1,0 +1,49 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: #581845;
+    background-color: rgb(0, 200, 0);
+    
+}
+
+p {
+    color: white;
+    background-color: rgb(131, 114, 17);
+}
+
+button {
+    color: red;
+    background-color: pink;
+}
+
+h2 .jackson {
+    color: pink;
+    font-size: 50px;
+}
+
+.card {
+    width: 210px;
+    border: 1px grey  solid;
+    text-align: center;
+    border-radius: 5px;
+}
+
+img {
+    width: 200px;
+    border: 5px rgb(236, 183, 191) solid;
+    border-radius: 50%;
+}
+
+:root {
+    --jackson: red
+}
+
+p {
+    background-color: var(--jackson);
+}
+
+div {
+ background-color: white;
+}

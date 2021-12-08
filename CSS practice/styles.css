@@ -1,0 +1,17 @@
+h1 {
+    color: hotpink;
+    border-bottom: dotted purple 10px;
+}
+
+h2 {
+    color: gray;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+}
+
+a:hover {
+    color: green;
+}

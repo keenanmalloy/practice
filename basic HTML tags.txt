@@ -1,0 +1,40 @@
+Basic tags 
+
+<!DOCTYPE> = defines document type
+<html> = defines an html document
+<meta> = defines meta data character set (example below)
+	<meta charset="UTF-8">
+	<meta name="description" content="this is an awesome website">
+<p> = paragraph
+<h1-h6> = font size
+<b> = bold
+<i> = italic
+<big> = bigger text
+<small> = smaller text
+<hr> = horizontal rule
+<br> = single line break
+<sub> = subscript (h20)
+<sup> = superscript (10 squared)
+<!--> = defines a comment
+
+-----------------------------------------------------------
+
+Style & color (attributes can change color of <p>, <body>)
+
+< style="color: blue;"> = changes color of text
+< style="color: blue; background-color:blue;"> = changes color of background text
+
+-----------------------------------------------------------
+
+Formatting 
+
+<head> = contains metadata for the document
+<title> = defines a title for the document
+<body> = defines the documents body
+	<header> 
+		<nav> = navigation elements
+	<main> 
+		<article>
+		<section>
+		<aside>
+	<footer> 
